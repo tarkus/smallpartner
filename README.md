@@ -6,6 +6,7 @@ smallpartner
   * gengrui https://github.com/gengrui1983
   * liangbinghong https://github.com/feisan
   * mashihua https://github.com/mashihua
+  * tarkus https://github.com/tarkus
   * qiaolun https://github.com/qiaolun
   * xuxiaomin https://github.com/angel22xu
   * yuelang https://github.com/laonger
